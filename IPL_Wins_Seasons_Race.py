@@ -54,7 +54,7 @@ def plotting(year):
 
 fig=plt.figure(figsize=(9,11))
 animator = animation.FuncAnimation(fig, plotting, frames=range(2008, 2020))
-animator.save("IPL_Wins_Seasons.gif", writer=animation.PillowWriter(fps=2))
+animator.save("IPL_Wins_Seasons_Race.gif", writer=animation.PillowWriter(fps=2))
 
 
 

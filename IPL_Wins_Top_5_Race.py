@@ -63,4 +63,4 @@ def plotting(date):
 
 fig=plt.figure(figsize=(8,8))
 animator = animation.FuncAnimation(fig, plotting, frames=ind)
-animator.save("IPL_Wins_All.gif", writer=animation.PillowWriter(fps=18))
+animator.save("IPL_Wins_Top_5_Race.gif", writer=animation.PillowWriter(fps=18))
