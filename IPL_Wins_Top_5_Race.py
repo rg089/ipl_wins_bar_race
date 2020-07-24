@@ -59,6 +59,8 @@ def plotting(date):
         plt.text(x.values[i]-dx, i-0.25, di[x.index[i]], ha="right", size=13, weight=350, va="baseline", color="snow")
     ax.text(0, 5.1, 'Most Wins in IPL', size=28, weight=600, ha='left')
     fig.text(0.5, 0.04, date, size=22, ha="center")
+    fig.text(0.87, 0.096, "Made by Rishabh Gupta", ha="right", c="#777777")
+    fig.text(0.87, 0.075, "https://github.com/rg089", ha="right", c="#777777")
     
 
 fig=plt.figure(figsize=(8,8))
