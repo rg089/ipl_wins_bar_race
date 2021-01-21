@@ -15,7 +15,7 @@
   :anchor: <b>IPL_Wins_Seasons_Race</b> - <i>A bar chart race showing the number of victories for each season.</i><br><br>
   :anchor: <b>IPL_Wins_Top_5_Race</b> - <i>The main :star: bar chart race of 5 teams with the most victories.</i><br><br>
   <br>
-  <a href="https://github.com/rg089/ipl_wins_bar_race#bar_chart-total-wins-"> Total Wins</a> / <a href="https://github.com/rg089/ipl_wins_bar_race#bar_chart-champions-race-">Seasons Race / </a><a href="https://github.com/rg089/ipl_wins_bar_race#bar_chart-season--most-overall-wins-race-">Top 5 Race</a>
+  <a href="https://github.com/rg089/ipl_wins_bar_race#bar_chart-total-wins"> Total Wins</a> / <a href="https://github.com/rg089/ipl_wins_bar_race#bar_chart-season-wins-race">Seasons Race / </a><a href="https://github.com/rg089/ipl_wins_bar_race#bar_chartmost-overall-wins-race">Top 5 Race</a>
   <br><br>
 </p>
 
@@ -46,7 +46,7 @@
   <br>
   <i>
   :sparkles: Dataset taken from <a href="https://www.kaggle.com/nowke9/ipldata?select=deliveries.csv" target="_blank">here</a> and <a href="https://cricsheet.org/" target="_blank">here</a>.<br><br>
-  :sparkles: Inspiration for the bar chart :bar_chart: race - <a href="https://pratapvardhan.com/blog/bar-chart-race-python-matplotlib/" target="_blank">Pratap Vardhan's Article.</a>.<br>
+  :sparkles: Inspiration for the bar chart :bar_chart: race - <a href="https://pratapvardhan.com/blog/bar-chart-race-python-matplotlib/" target="_blank">Pratap Vardhan's Article.</a><br>
   </i>
   <br><br>
 </p>
